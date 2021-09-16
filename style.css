@@ -1,0 +1,72 @@
+.navbar{
+   background-image: linear-gradient(white 0%,white 100%);
+}
+.navbar img{
+    width: 150px;
+}
+.buy-button{
+    color: white;
+    background-image: linear-gradient(#343a40 0%,#343a40 100%);
+    padding: 5px 10px;
+    border-radius: 8px;
+}
+.card-title{
+    text-align: center;
+}
+.card-footer {
+    background-image: linear-gradient(white 0%,white 100%);
+    text-align: center;
+    border-top: none;
+}
+.card-text{
+    text-align: center;
+}
+.card img{
+    padding: 10%;
+}
+.price{
+    text-align: center;
+}
+.laptop{
+    margin-top: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+
+}
+.last-part{
+    border-radius: 5px 15px 5px 25px;
+    box-shadow: 1px 1px 10px;
+    padding: 45px;
+    margin-left: 150px;
+    
+}
+.final-part{
+    margin-left: 90px;
+}
+.bottom-part{
+    margin-top: 30px;
+}
+.cart{
+    margin-right: 150px;
+    width: 550px;
+}
+.underline-block{
+    width: 100px;
+    height: 8px;
+    border-radius: 10px;
+    background-image: linear-gradient(to right, #ff8206, #ffff00);
+    margin-left: 600px;
+}
+.box{
+    margin-top: 100px;
+    height: 300px;
+    width: 700px;
+    background-image: linear-gradient(to right,gray,dimgray);
+}
+footer{
+    color: white;
+    text-align: center;
+    padding-top: 12%;
+}
